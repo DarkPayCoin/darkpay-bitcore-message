@@ -1,0 +1,29 @@
+{
+  "name": "bitcore-message",
+  "main": "./bitcore-message.min.js",
+  "version": "1.0.3",
+  "homepage": "https://github.com/DarkPayCoin/darkpay-bitcore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Darkpay Message Verification and Signing for Darkpay",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "darkpay",
+    "bitcore",
+    "btc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
