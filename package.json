@@ -23,7 +23,7 @@
     "url": "https://github.com/DarkPayCoin/darkpay-bitcore-message.git"
   },
   "dependencies": {
-    "darkpay-bitcore-lib": "git://github.com/darkpay/darkpay-bitcore-lib"
+    "darkpay-bitcore-lib": "git://github.com/DarkPayCoin/darkpay-bitcore-lib"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
